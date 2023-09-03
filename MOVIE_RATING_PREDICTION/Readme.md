@@ -88,7 +88,3 @@ We continue to refine our approach:
 
 - The MovieLens dataset is courtesy of the GroupLens Research Project.
 
-## Author
-
-- Akash
-
